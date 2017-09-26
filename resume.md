@@ -6,7 +6,7 @@ friedrih@oregonstate.edu
 
 > ## OBJECTIVE: 
 >
-> While pursuing a Masters in Geography at [Oregon State University][], I aim to become a practitioner of application based remote sensing research focused on land cover change influenced by climatic variability and changes in livelihoods in areas of West Africa and the Lusophone world. 
+> While pursuing a Masters in Geography at [Oregon State University][], I aim to become a practitioner of application based >remote sensing research focused on land cover change influenced by climatic variability and changes in livelihoods in areas >of West Africa and the Lusophone world. 
 
 ## EDUCATION
 
@@ -58,7 +58,7 @@ May 2014 - May 2015 / University of Wisconsin - Madison
 ## AWARDS
 Barbara Petchenik Undergraduate Award in Cartographic Design, 2015
 ![](hannahfriedrich.github.io/Friedrich_LandLossMissDelta.jpg)
-![]()
+![](hannahfriedrich.github.io/Friedrich_REUGroundwaterPoster.jpg)
 University of Wisconsin - Madison Honors Senior Thesis Research Grant, 2015
 
 ## SKILLS
