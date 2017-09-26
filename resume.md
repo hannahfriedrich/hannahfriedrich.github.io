@@ -79,7 +79,7 @@ May 2014 - May 2015 / University of Wisconsin - Madison
 
 Barbara Petchenik Undergraduate Award in Cartographic Design, 2015
 
-![][hannahfriedrich.github.io/blob/master/Friedrich_LandLossMissDelta.jpg]
+![][blob/master/Friedrich_LandLossMissDelta.jpg]
 
 University of Wisconsin - Madison Honors Senior Thesis Research Grant, 2015
 
