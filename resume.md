@@ -75,11 +75,11 @@ May 2014 - May 2015 / University of Wisconsin - Madison
 * Georeference current and historical aerial images of agricultural and urban environments
 * Gather, compile and organize soil, groundwater well, and vegetation samples
 
-##AWARDS
+## AWARDS
 
 Barbara Petchenik Undergraduate Award in Cartographic Design, 2015
 
-![][https://github.com/hannahfriedrich/hannahfriedrich.github.io/blob/master/Friedrich_LandLossMissDelta.jpg]
+![][hannahfriedrich.github.io/blob/master/Friedrich_LandLossMissDelta.jpg]
 
 University of Wisconsin - Madison Honors Senior Thesis Research Grant, 2015
 
